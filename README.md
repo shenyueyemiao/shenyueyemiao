@@ -1,7 +1,6 @@
 ### 你好👋
 
 - 🔭 我正在从事ERP、HIS系统的软件研发工作.
-- 🌱 正在学.NET6以及Vue3和TypeScript.
 - 👯 主要的使用的技术栈：.NetCore+TypeScript+Vue.
 
 [![Anurag's github stats](https://github-readme-stats-delta-self.vercel.app/api?username=shenyueyemiao&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
